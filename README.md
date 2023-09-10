@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/gotohellme/checker-cli/main/Untitled.png
+![alt text]([http://url/to/img.png](https://raw.githubusercontent.com/gotohellme/checker-cli/main/Untitled.png))
 
 GOTOHELL CHECKER
 
