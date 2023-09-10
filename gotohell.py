@@ -1,7 +1,7 @@
 import requests
 from colorama import Fore, Style
 
-# GOTOHELL CHECKER CLI VERSION https://gotohel.me
+# GOTOHELL CHECKER CLI VERSION https://gotohell.me
 
 rs = Style.RESET_ALL
 fg = Fore.GREEN
